@@ -1,0 +1,17 @@
+# Arquivos do Excel
+*.xls
+*.xlsx
+~$*.xls
+*.xlsm
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Pastas do Excel
+xlstart/
