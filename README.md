@@ -21,11 +21,11 @@ Este é o **segundo projeto** do meu portfólio de análise de dados, desenvolvi
 
 ## 📁 **Estrutura do Projeto**
 dashboard-vendas-superstore/
-├── .gitignore # Arquivos ignorados pelo Git
-├── README.md # Documentação do projeto
-├── superstore_dataset.csv # Base de dados original (10k registros)
-├── dashboard_vendas.xlsx # Dashboard final
-└── dashboard.png # Print do dashboard (visualização)
+├── .gitignore                    # Arquivos ignorados pelo Git
+├── README.md                      # Documentação do projeto
+├── superstore_dataset.csv         # Base de dados original (10k registros)
+├── dashboard_vendas.xlsx          # Dashboard final
+└── dashboard.png                  # Print do dashboard (visualização)
 
 
 ---
@@ -62,12 +62,11 @@ dashboard-vendas-superstore/
 ### Passo a Passo
 
 1. **Clone o repositório**
+    ```bash
+    git clone https://github.com/mayconaap/dashboard-vendas-superstore.git
 
-   ```bash
-   
-   git clone https://github.com/mayconaap/dashboard-vendas-superstore.git
-
-2. **Acesse a pasta do projeto através do gitbash**
+2. **Acesse a pasta do projeto**
+    ```bash
     cd dashboard-vendas-superstore
 
 3. **Abra o arquivo no Excel**
@@ -96,6 +95,7 @@ Quantity	Quantidade
 Discount	Desconto aplicado
 Profit	Lucro obtido
 
+
 ## 📈 Insights do Dashboard
 💡 Categoria mais vendida: Technology (R$ 836.154)
 
@@ -104,6 +104,7 @@ Profit	Lucro obtido
 💡 Produto mais vendido: Canon imageCLASS (R$ 20.000+)
 
 💡 Lucro total: R$ 43.075,06
+
 
 ## 👨‍💻 Autor
 Maycon A. P.
