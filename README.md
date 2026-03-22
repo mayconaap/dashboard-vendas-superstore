@@ -9,33 +9,23 @@
 
 ## 📋 **Descrição do Projeto**
 
-Este é o **segundo projeto** do meu portfólio de análise de dados. 
-O objetivo foi criar um **dashboard interativo no Excel** a partir da base de dados **Superstore**, uma das bases mais famosas para análises de vendas.
-
-O projeto demonstra habilidades em:
-- Tratamento e análise de dados no Excel
-- Criação de tabelas dinâmicas
-- Construção de gráficos profissionais
-- Criação de KPIs e cards de métricas
-- Versionamento com Git e GitHub
+Este é o **segundo projeto** do meu portfólio de análise de dados, desenvolvido durante o curso **Santander + DIO**. O objetivo foi criar um **dashboard interativo no Excel** a partir da base de dados **Superstore**, uma das bases mais famosas para análises de vendas.
 
 ---
 
 ## 🖼️ **Preview do Dashboard**
 
-![Dashboard](dashboard_print.png)
+![Dashboard](dashboard.png)
 
 ---
 
 ## 📁 **Estrutura do Projeto**
-
 dashboard-vendas-superstore/
-
 ├── .gitignore # Arquivos ignorados pelo Git
 ├── README.md # Documentação do projeto
 ├── superstore_dataset.csv # Base de dados original (10k registros)
 ├── dashboard_vendas.xlsx # Dashboard final
-└── dashboard_print.png # Print do dashboard (visualização)
+└── dashboard.png # Print do dashboard (visualização)
 
 
 ---
@@ -72,10 +62,12 @@ dashboard-vendas-superstore/
 ### Passo a Passo
 
 1. **Clone o repositório**
+
    ```bash
+   
    git clone https://github.com/mayconaap/dashboard-vendas-superstore.git
 
-2. **Acesse a pasta do projeto**
+2. **Acesse a pasta do projeto através do gitbash**
     cd dashboard-vendas-superstore
 
 3. **Abra o arquivo no Excel**
@@ -87,8 +79,7 @@ dashboard-vendas-superstore/
     Analise os gráficos por categoria, região e produtos
     As tabelas dinâmicas estão na aba "Tabelas_Dinamicas"
 
-
-### 📊 Base de Dados: Superstore
+## 📊 Base de Dados: Superstore
 A base Superstore contém cerca de 10.000 registros de vendas com as seguintes colunas principais:
 
 Coluna	Descrição
@@ -105,20 +96,16 @@ Quantity	Quantidade
 Discount	Desconto aplicado
 Profit	Lucro obtido
 
+## 📈 Insights do Dashboard
+💡 Categoria mais vendida: Technology (R$ 836.154)
 
+💡 Região com maior faturamento: West (R$ 725.458)
 
-### 📈 Insights do Dashboard
+💡 Produto mais vendido: Canon imageCLASS (R$ 20.000+)
 
-**💡 Categoria mais vendida: Technology (R$ 836.154)**
+💡 Lucro total: R$ 43.075,06
 
-**💡 Região com maior faturamento: West (R$ 725.458)**
-
-**💡 Produto mais vendido: Canon imageCLASS (R$ 20.000+)**
-
-**💡 Lucro total: R$ 43.075,06**
-
-
-👨‍💻 Autor
+## 👨‍💻 Autor
 Maycon A. P.
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
