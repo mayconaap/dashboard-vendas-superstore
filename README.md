@@ -30,6 +30,7 @@ O projeto demonstra habilidades em:
 ## 📁 **Estrutura do Projeto**
 
 dashboard-vendas-superstore/
+
 ├── .gitignore # Arquivos ignorados pelo Git
 ├── README.md # Documentação do projeto
 ├── superstore_dataset.csv # Base de dados original (10k registros)
@@ -87,7 +88,7 @@ dashboard-vendas-superstore/
     As tabelas dinâmicas estão na aba "Tabelas_Dinamicas"
 
 
-📊 Base de Dados: Superstore
+### 📊 Base de Dados: Superstore
 A base Superstore contém cerca de 10.000 registros de vendas com as seguintes colunas principais:
 
 Coluna	Descrição
@@ -106,14 +107,15 @@ Profit	Lucro obtido
 
 
 
-📈 Insights do Dashboard
-💡 Categoria mais vendida: Technology (R$ 836.154)
+### 📈 Insights do Dashboard
 
-💡 Região com maior faturamento: West (R$ 725.458)
+**💡 Categoria mais vendida: Technology (R$ 836.154)**
 
-💡 Produto mais vendido: Canon imageCLASS (R$ 20.000+)
+**💡 Região com maior faturamento: West (R$ 725.458)**
 
-💡 Lucro total: R$ 43.075,06
+**💡 Produto mais vendido: Canon imageCLASS (R$ 20.000+)**
+
+**💡 Lucro total: R$ 43.075,06**
 
 
 👨‍💻 Autor
