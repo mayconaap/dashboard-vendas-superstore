@@ -48,13 +48,13 @@ Este é o **segundo projeto** do meu portfólio de análise de dados, desenvolvi
 ## 🚀 Como Utilizar
 
 1. **Clone o repositório**
-```Bash
-git clone https://github.com/mayconaap/dashboard-vendas-superstore.git
+    ```Bash
+    git clone https://github.com/mayconaap/dashboard-vendas-superstore.git
 
 
 2. **Acesse a pasta do projeto**
-```Bash
-cd dashboard-vendas-superstore
+    ```Bash
+    cd dashboard-vendas-superstore
 
 
 3. **Abra o arquivo no Excel**
